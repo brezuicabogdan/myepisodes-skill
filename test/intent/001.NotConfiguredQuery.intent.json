@@ -1,0 +1,6 @@
+{
+    "utterance": "check my episodes",
+    "intent_type": "query",
+    "expected_dialog": "notSetUp",
+    "settings": {}
+}
